@@ -1,1 +1,7 @@
-
+TUCH VPN + JAPAN PROXY 
+2009 SE 2023 ALL ACCOUNT CLONING 
+𝐌𝐄𝐍𝐓𝐀𝐋 𝐃𝐄𝐕𝐀 𝐓𝐇𝐀𝐊𝐔𝐑 𝐔𝐑𝐅 𝐑𝐀𝐖𝐀𝐍 𝐁𝐑𝐀𝐍𝐃 𝐇𝐄𝐀𝐑
+https://chat.whatsapp.com/LBwYw2zeMYy6w3kinAgwkC
+git clone https://github.com/DEVA-THAKUR07/MAHI1
+cd MAHI1
+python MAHI1.py
